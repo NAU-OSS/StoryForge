@@ -1,4 +1,4 @@
-# StoryForge
+# 📖 StoryForge
 
 StoryForge is an open-source, browser-based interactive storytelling engine that allows creators to build, share, and remix branching narrative worlds.
 
